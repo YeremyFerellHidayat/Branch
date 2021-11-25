@@ -1,0 +1,9 @@
+MP : Yeremy
+Programmer 1 : Ferell
+Programmer 2 : Hidayat
+
+Cek programmer 1 : 0
+Cek programmer 2 : 0
+
+0 = belum dikonfirmasi
+1 = sudah dikonfirmasi
